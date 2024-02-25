@@ -1,5 +1,5 @@
 # Mental-health-Chatbot 
-This is a chatbot  designed to provide support, information, and guidance related to mental health.
+This is a chatbot designed to provide support, information, and guidance related to mental health.
 
 # How to run it?
 
